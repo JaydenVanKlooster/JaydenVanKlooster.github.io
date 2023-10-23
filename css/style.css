@@ -2,21 +2,26 @@ body
 {
     background-color: white;
 }
-article
+#mainmenu > a
 {
-  position: absolute;
-  top: 40px;
-  left: 40px;
-  width: 500px;
-  
-
+    width: 10%;
+    height: 100%;
+    float: left;
 }
-p
-{
-    color: darkgray;
+#mainmenu > a > img
+{ 
+    display: block;
+    margin: auto;
+    height: 10%;
 }
-
-h1
+#mainmenu > ul
 {
-    color: black;
+    width: 60%;
+    line-height: 7em;
+    float: left;
+    text-align: center;
+}
+#mainmenu > ul > li
+{
+    display: inline;
 }
