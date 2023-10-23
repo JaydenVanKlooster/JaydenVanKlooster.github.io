@@ -7,7 +7,7 @@ body
 }
 
 
-.cookies-message {
+#cookies-message {
     background-color: #333;
     color: #fff;
     border: none;
