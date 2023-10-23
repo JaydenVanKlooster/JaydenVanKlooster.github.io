@@ -1,6 +1,24 @@
 body
 {
     background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.cookies-message {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    z-index: 9999;
+    cursor: pointer;
 }
 #mainmenu > a
 {
@@ -23,5 +41,10 @@ body
 }
 #mainmenu > ul > li
 {
-    display: inline;
+    display: inline-block;
+    width: 180px;
+height: 120px;
+flex-shrink: 0;
+border: 1px solid #CCC;
+background: #F9F9F9;
 }
