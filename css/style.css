@@ -88,8 +88,15 @@ body
     font-weight: 400;
     line-height: normal;
 }
-.calltoaction
+#calltoaction
 {
+    text-align: center;
+    color: #000;
+    font-family: Russo One;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
     width: 216px;
     height: 68px;
     border-radius: 8px;
