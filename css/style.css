@@ -195,7 +195,6 @@ margin-bottom: 34px;
     height: 160px;
 }
 
-
 #contact_formulier >.sendbutton> button
 {
     clear: both;
@@ -212,4 +211,12 @@ margin-bottom: 34px;
     border-radius: 8px;
     background: #04FFF0;
     cursor: pointer;
+}
+#main_doel
+{
+    clear: both;
+    width: 1200px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
 }
