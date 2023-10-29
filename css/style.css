@@ -240,7 +240,10 @@ margin-bottom: 34px;
 
 #foto_onderaan_doelen
 {
-    margin-left: 160px;
-    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    
 }
 
