@@ -291,6 +291,40 @@ margin-bottom: 34px;
     width: 1200px;
     height: auto;
 }
+.main_benodigdheden
+{
+    clear: both;
+    width: 1200px;
+    height: auto;
+    margin-left: 120px;
+    margin-right: auto;
+}
+.aside_benodigdheden
+{
+    clear: both;
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.aside_benodigdheden> a
+{
+    height: auto;
+    width: 600px;
+}
+.aside_benodigdheden> a> img
+{
+    height: 300px;
+    width: auto;
+}
+.aside_benodigdheden1
+{
+    clear: both;
+    width: 1200px;
+    height: auto;
+    margin-left: 120px;
+    margin-right: auto;
+}
 }
 @media screen and (max-width: 769px)
 {
