@@ -1,4 +1,4 @@
-@media screen and (min-width: 719px) {
+@media screen and (min-width: 768px) {
     
 
 body
@@ -250,4 +250,49 @@ margin-bottom: 34px;
     margin-bottom: 34px;
 
 }
+#main_motivatie
+{
+    clear: both;
+    width: 1200px;
+    height: auto;
+    margin-left: 120px;
+    margin-right: auto;
+}
+.energie_foto
+ {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.energie_foto >a>img
+{
+    margin-left: 120px;
+    height: 276px;
+    width: auto;
+}
+.article_doelen
+{
+    clear: both;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.article_doelen1{
+    margin-left: 120px;
+    width: 400px;
+    height: auto;
+}
+.article_doelen2{
+    margin-left: 120px;
+    width: 400px;
+    height: auto;
+}
+.article_doelen3
+{
+    margin-left: 120px;
+    width: 1200px;
+    height: auto;
+}
+}
+@media screen and (max-width: 769px)
+{
+
 }
