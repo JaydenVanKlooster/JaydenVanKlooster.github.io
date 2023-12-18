@@ -1,0 +1,5 @@
+Student name: jayden van klooster
+Student number: 703247
+Student class: inf1c
+GitHub Repository: https://github.com/JaydenVanKlooster/JaydenVanKlooster.github.io
+GitHub Pages URL: https://jaydenvanklooster.github.io/
