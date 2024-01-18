@@ -7,7 +7,9 @@ body/* This is a comment line in CSS */
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    letter-spacing: 2px;
+    letter-spacing: 100%;
+    text-indent: 0px;
+
 }
 #cookies-message {
     background-color: #333;
